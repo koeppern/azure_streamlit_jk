@@ -9,7 +9,7 @@ st.title("azure_streamlit_jk")
 
 st.write("*DOCUMENTATION IS MISSING")
 
-st.write("""2023-05-16, J. Köppern\nazure-streamlit-jk is the name of htis app on Azure.""")
+st.write("""2023-05-16, J. Köppern\n\nazure-streamlit-jk is the name of htis app on Azure.""")
 
 st.header("Hsllo. ✴️🙂")
 
